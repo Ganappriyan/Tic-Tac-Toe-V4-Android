@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe V4</string>
+    <string name="tic_tac_toe_v4">Tic-Tac-Toe V4</string>
+    <string name="player_vs_player">Player vs Player</string>
+    <string name="player_vs_program">Player vs Program</string>
+    <string name="created_by_ganappriyan">Created by Ganappriyan</string>
+    <string name="choose_difficulty">Choose Difficulty</string>
+    <string name="veteran">Veteran</string>
+    <string name="noob">Noob</string>
+    <string name="pro">Pro</string>
+    <string name="help">Help</string>
+    <string name="information">Information</string>
+    <string name="noob_info">Noob: You will win,\nif you know Rules</string>
+    <string name="veteran_info">Veteran : Low Chance of\nWinning</string>
+    <string name="pro_info">Pro: Try Everything you Have</string>
+    <string name="sampletext">SampleText</string>
+    <string name="exit">Exit</string>
+    <string name="draw">Draw</string>
+    <string name="play_again">Play Again</string>
+</resources>
